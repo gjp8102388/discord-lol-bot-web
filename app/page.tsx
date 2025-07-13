@@ -7,7 +7,7 @@ export default function Home() {
         {/* 头部 Logo 或 Banner */}
         <div className="flex flex-col items-center sm:items-start gap-4">
           <Image
-            className="dark:invert"
+            // className="dark:invert"
             src="/IMG_6894.png" // 这里替换为你的机器人 Logo 路径
             alt="Discord 英雄联盟机器人"
             width={180}
